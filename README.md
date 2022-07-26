@@ -1,2 +1,2 @@
 # JavaScript-Darslari
-JavaScript Darslari
+JavaScript Darslari 

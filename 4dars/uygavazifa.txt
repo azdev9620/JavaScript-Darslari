@@ -11,7 +11,7 @@ sikil yordamida uni yangi masivga ko'chirish kerak bo'ladi!
 4) massiv yordamida umumiy summani chiqarish
 var arr = [1, 2, 3, 4, 5]
   
-5) var arr = []; 
+5) var arr = [] x xx xxx xxxx ; 
 
 6) super o'yin 
 var color = ['black', 'black', 'black', 'black', 'black', 'black']

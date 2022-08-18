@@ -1,6 +1,4 @@
 while - for sikilda qilish kerak ! Uyga vazifa
-
-
 // 1-20 masivlar random bo'lish kerak    
 
 3)   var arr = [1,9,7,-11,-22,-33]; 
